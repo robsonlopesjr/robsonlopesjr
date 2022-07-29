@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Robson Júnior
 
+[![Linkedin Badge](https://img.shields.io/badge/-Adicione&nbsp;me&nbsp;no&nbsp;LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonlopesjr/)](https://www.linkedin.com/in/robsonlopesjr/)
+
 <ul>
   <li>:man_technologist: I'm currently working with Full Stack Programmer, Power BI and Data Analytics;</li>
   <li>:telescope: I'm currently learning about Cloud, Big Data and Finance;</li>
@@ -10,7 +12,7 @@
 
 <div>
   <a href="https://github.com/robsonlopesjr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonlopesjr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonlopesjr&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonlopesjr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
