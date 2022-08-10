@@ -4,7 +4,7 @@
 
 <ul>
   <li>:man_technologist: I'm currently working with Full Stack Programmer, Power BI and Data Analytics;</li>
-  <li>:telescope: I'm currently learning about Cloud, Big Data and Finance;</li>
+  <li>:telescope: I'm currently learning about Power Apps and Finance;</li>
   <li>:computer: I am a technologist in Systems Analysis and Development;</li>
   <li>:man_judge: I am a bachelor of Arts in Law;</li>
   <li>:man_scientist: I am specializing in Data Analytics;</li>
